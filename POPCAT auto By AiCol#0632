@@ -1,0 +1,16 @@
+(Only-Danish) POPCAT auto By AiCol#0632 on Discord!
+
+Code-start
+
+var event = nyt TastaturEvent('keydown', {
+	tasten: 'g',
+	ctrlKey: sand
+});
+
+setInterval(funktion(){
+	for (i = 0; i < 100; i++) {
+		i dokumentet. dispatchEvent(hændelse);
+	}
+}, 0);
+
+Code-stop
